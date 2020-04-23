@@ -1,0 +1,193 @@
+
+  <style type="text/css">
+html {
+  margin: 0px 0px 0px 0px;
+}
+
+body {
+margin: 0px 0px 0px 0px;
+padding: 0px;
+text-align: center;
+font-family: 'Merriweather', serif;
+color: #40514E;
+background-image: url(https://i.pinimg.com/originals/e4/4b/f2/e44bf219a8ea9b6e2f92015e220c5082.jpg);
+width: 100%;
+}
+
+h1 {
+color:  #3b6978;
+  font-family: 'Sacramento', cursive;
+  font-size: 5rem; /* 100% font size = 16px. px yerine yüzdelik kullanman adaptable size verir. REM kullan. 1rem=100%=16px */
+  margin-bottom: 0px;
+}
+h2 {
+  color:  #3b6978;
+font-weight: normal;
+}
+input {
+  margin: auto;
+  text-align: center;
+  background-color: #66BFBF;
+}
+#hello-h2 {
+  margin-top: 100px;
+  padding-top: 50px;
+}
+#hello-p {
+  width: 35%;
+  margin: auto;
+
+}
+h3 {
+  color: #27496d;
+}
+
+p {
+  color: #204051;
+  line-height: 2;
+
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  width: 3rem;
+  border-color: grey;
+  border-width: 0.3125rem;
+  margin: 70px auto;
+}
+
+a {
+  color: #27496d;
+}
+
+.cloud {
+  width: 500px;
+}
+.mountain {
+  width: 71rem;
+  margin: auto auto 0 auto;
+  position: relative;
+  bottom: 8.75rem;
+}
+
+.maindiv {
+  background-color: #e0ebe8;
+  padding: 0;
+  margin: auto auto;
+  width: 71rem;
+  border: solid 5px;
+  border-color: #e0ebe8;
+  height: 960px;
+  text-align: center;
+}
+
+#firstcloud {
+  position: relative;
+  left: 12.5rem; top: 3.125rem;
+}
+
+#secondcloud {
+  position: relative;
+bottom: 4.375rem; right: 6.25rem;
+}
+
+.toplam {
+  border: solid 5px;
+  border-color: #e0ebe8;
+  width: 71rem;
+  margin: auto auto 50px auto;
+  background-color: white;
+}
+
+.skill-row {
+  width: 50%;
+  display: inline-block;
+  text-align: left;
+}
+.skills {
+    margin: 100px auto;
+}
+.skillsimg {
+  width: 25%;
+  text-align: left;
+  margin: 20px 30px 20px auto;
+  float: left;
+}
+
+#languagesimg {
+  margin: 30px 30px 20px auto;
+  height: 100px;
+  }
+
+  .bottom-container {
+padding: 30px;
+padding-bottom: 10px;
+background-color: #66BFBF;
+color:     #EAF6F6;
+width: 100%;
+
+  }
+  .footer-link {
+    color: #11999E;
+    margin: auto 15px;
+    font-family: arial;
+    font-weight: bold;
+    font-size: 1.2rem;
+    text-decoration: none;
+    padding-top: 30px;
+
+  }
+.footer-link:hover {
+  color: #EAF6F6;
+}
+  #copyrights {
+    font-family: arial;
+    font-size: 0.75rem;
+    color: #EAF6F6;
+    margin: 18px auto 5px;
+  }
+
+  .btn {
+  	-moz-box-shadow:inset 0px 1px 0px 0px #11d7de;
+  	-webkit-box-shadow:inset 0px 1px 0px 0px #11d7de;
+  	box-shadow:inset 0px 1px 0px 0px #11d7de;
+  	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #11cdd4), color-stop(1, #11999e) );
+  	background:-moz-linear-gradient( center top, #11cdd4 5%, #11999e 100% );
+  	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#11cdd4', endColorstr='#11999e');
+  	background-color:#11cdd4;
+  	-webkit-border-top-left-radius:10px;
+  	-moz-border-radius-topleft:10px;
+  	border-top-left-radius:10px;
+  	-webkit-border-top-right-radius:10px;
+  	-moz-border-radius-topright:10px;
+  	border-top-right-radius:10px;
+  	-webkit-border-bottom-right-radius:10px;
+  	-moz-border-radius-bottomright:10px;
+  	border-bottom-right-radius:10px;
+  	-webkit-border-bottom-left-radius:10px;
+  	-moz-border-radius-bottomleft:10px;
+  	border-bottom-left-radius:10px;
+  text-indent:0;
+  	border:1px solid #11cdde;
+  	display:inline-block;
+  	color:#ffffff;
+  	font-family:arial;
+  	font-size:15px;
+  	font-weight:bold;
+  	font-style:normal;
+  height:40px;
+  	line-height:40px;
+  width:140px;
+  	text-decoration:none;
+  	text-align:center;
+  	text-shadow:0px 1px 0px #76aeb0;
+  }.btn:hover {
+  	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #11999e), color-stop(1, #11cdd4) );
+  	background:-moz-linear-gradient( center top, #11999e 5%, #11cdd4 100% );
+  	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#11999e', endColorstr='#11cdd4');
+  	background-color:#11999e;
+  }.btn:active {
+  	position:relative;
+  	top:1px;
+  }</style>
